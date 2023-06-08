@@ -25,10 +25,9 @@ Python 3.11.0, FastAPI 0.95.2, КриптоПро
 
 
 ## Авторы
-Михаил Павлов
-- [@mikepavlos](https://github.com/mikepavlos)
-Марина Чухарева
-- [@Marymarian](https://www.github.com/Marymarian)
+- Михаил Павлов [@mikepavlos](https://github.com/mikepavlos)
+
+- Марина Чухарева [@Marymarian](https://www.github.com/Marymarian)
 
 
 ## В разработке
